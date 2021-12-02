@@ -1,2 +1,2 @@
-# sudoku-solver
-This is my sudoku solver
+# sudoku
+This is my sudoku code.
